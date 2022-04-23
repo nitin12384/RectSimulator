@@ -5,7 +5,7 @@ start date - 1st Dec 2019
 
 
 # Setting Up the environment to run
-(Instructions for Windows operating system only, Tested on Windows 10 )
+(Instructions for Windows operating system only, Tested on Windows 10 ) /
 Refrences : https://www.youtube.com/watch?v=J0_vt-7Ok6U
 
 1. Download the 32-bit compiler . Link : https://jmeubank.github.io/tdm-gcc/ 
