@@ -2,6 +2,16 @@
 
 	2D physics simulation of two rectangles in closed box
 
+# Current Progress 
+
+1.Proper Drawing and Initialisation of rectangle ✅
+2.Animation of rectangle✅
+3.Physics Update of Coords according to velocity and acceleration✅
+4.Collision Handling With the walls
+
+# Language Used 
+
+1. Plain C++ with console graphics using graphics.h 
 
 # Setting Up the environment and execution
 (Instructions for Windows operating system only, Tested on Windows 10 ) <br>
@@ -33,9 +43,3 @@ Example : ` C:\TDM-GCC-32\bin\g++.exe -o main.exe main.cpp -lbgi -lgdi32 -lcomdl
 # Other Info
 
 Start Date : 1 December 2019
-
-Project Phases 
-	1.Proper Drawing and Initialisation of rectangle 
-	2.Animation of rectangle
-	3.Physics Update of Coords according to velocity and acceleration
-	4.Collision Handling With the walls
