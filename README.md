@@ -3,7 +3,7 @@
 			----------2D physics simulation of two rectangles in closed box -----------
 
 
-# Setting Up the environment to run
+# Setting Up the environment and execution
 (Instructions for Windows operating system only, Tested on Windows 10 ) <br>
 Refrences : https://www.youtube.com/watch?v=J0_vt-7Ok6U
 
@@ -24,6 +24,12 @@ Notes :
 
 5. Run the program as : `<compiler_path> -o <output_file_path> <code_file_path> -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32`
 Example : ` C:\TDM-GCC-32\bin\g++.exe -o main.exe main.cpp -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32 `
+
+# Execution Screenshots 
+
+<img src="./screenshots/SS1.png" />
+
+# Other Info
 
 Start Date : 1 December 2019
 
