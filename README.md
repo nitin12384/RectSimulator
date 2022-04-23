@@ -21,6 +21,12 @@ These files are required :
 Notes : 
 - Uncheck "Check for updated files of TDM-GCC server"
 
+4. Find the path of compiler's g++.exe file . Ex : "C:\TDM-GCC-32\bin\g++.exe"
+
+5. Run the program as : `<compiler_path> -o <output_file_path> <code_file_path> -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32`
+<br>
+Example : `"C:\TDM-GCC-32\bin\g++.exe" -o main.exe main.cpp -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32`
+
 
 Project Phases 
 	1.Proper Drawing and Initialisation of rectangle 
