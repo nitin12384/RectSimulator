@@ -1,6 +1,6 @@
 # RectSimulator
 
-			----------2D physics simulation of two rectangles in closed box -----------
+			-2D physics simulation of two rectangles in closed box -
 
 
 # Setting Up the environment and execution
