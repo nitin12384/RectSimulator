@@ -27,7 +27,8 @@ Example : ` C:\TDM-GCC-32\bin\g++.exe -o main.exe main.cpp -lbgi -lgdi32 -lcomdl
 
 # Execution Screenshots 
 
-<img src="./screenshots/SS1.png" />
+<img src="./images/SS1.png" />
+<img src="./images/SS2.png" />
 
 # Other Info
 
