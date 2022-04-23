@@ -5,8 +5,11 @@
 # Current Progress 
 
 1.Proper Drawing and Initialisation of rectangle ✅
+
 2.Animation of rectangle✅
+
 3.Physics Update of Coords according to velocity and acceleration✅
+
 4.Collision Handling With the walls
 
 # Language Used 
