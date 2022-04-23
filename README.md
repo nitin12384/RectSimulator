@@ -12,6 +12,8 @@
 
 4.Collision Handling With the walls
 
+5.Adding of more than one bodies in the simulation
+
 # Language Used 
 
 1. Plain C++ with console graphics using graphics.h 
@@ -21,7 +23,7 @@
 Refrences : https://www.youtube.com/watch?v=J0_vt-7Ok6U
 
 1. Download the 32-bit compiler . Link : https://jmeubank.github.io/tdm-gcc/ 
-Download this file "MinGW.org based tdm-gcc-10.3.0.exe, 60.2 MB"
+Download this file ` MinGW.org based tdm-gcc-10.3.0.exe, 60.2 MB `
 
 2. Download graphics.h library files . Link : https://drive.google.com/file/d/16xZBvFXf7yFjxwTpuyevK1KPuLgUeZFh/view
 These files are required : 
@@ -29,7 +31,7 @@ These files are required :
 - winbgim.h
 - libbgi.a
 
-3. Install the compiler, and place graphics.h & winbgim.h files in /include folder of compiler and libbgi.a file in /lib folder of compiler
+3. Install the compiler, and place ` graphics.h ` & ` winbgim.h ` files in ` /include ` folder of compiler and ` libbgi.a ` file in ` /lib ` folder of compiler
 Notes : 
 - Uncheck "Check for updated files of TDM-GCC server"
 
