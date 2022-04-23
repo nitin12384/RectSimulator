@@ -29,7 +29,7 @@ These files are required :
 - winbgim.h
 - libbgi.a
 
-3. Install the compiler, and place .h files in /include folder of compiler and .a file in /lib folder of compiler
+3. Install the compiler, and place graphics.h & winbgim.h files in /include folder of compiler and libbgi.a file in /lib folder of compiler
 Notes : 
 - Uncheck "Check for updated files of TDM-GCC server"
 
