@@ -25,7 +25,7 @@ Refrences : https://www.youtube.com/watch?v=J0_vt-7Ok6U
 1. Download the 32-bit compiler . Link : https://jmeubank.github.io/tdm-gcc/ 
 Download this file ` MinGW.org based tdm-gcc-10.3.0.exe, 60.2 MB `
 
-2. Download graphics.h library files . Link : https://drive.google.com/file/d/16xZBvFXf7yFjxwTpuyevK1KPuLgUeZFh/view
+2. Download graphics.h library files . Link : https://drive.google.com/file/d/16xZBvFXf7yFjxwTpuyevK1KPuLgUeZFh/view (Also in graphics-header-files direcory in the repo)
 These files are required : 
 - graphics.h
 - winbgim.h
