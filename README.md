@@ -1,7 +1,6 @@
 # RectSimulator
 
 			----------2D physics simulation of two rectangles in closed box -----------
-start date - 1st Dec 2019
 
 
 # Setting Up the environment to run
@@ -26,9 +25,10 @@ Notes :
 5. Run the program as : `<compiler_path> -o <output_file_path> <code_file_path> -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32`
 Example : ` C:\TDM-GCC-32\bin\g++.exe -o main.exe main.cpp -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32 `
 
+Start Date : 1 December 2019
 
 Project Phases 
 	1.Proper Drawing and Initialisation of rectangle 
 	2.Animation of rectangle
 	3.Physics Update of Coords according to velocity and acceleration
-	4.
+	4.Collision Handling With the walls
