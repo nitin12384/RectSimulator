@@ -9,8 +9,8 @@
 #define ABS(x) ((x>0)?(x):(-x))
 
 #define DEF_COLOR GREEN
-#define MAXX 1500
-#define MAXY 900
+#define MAXX 800
+#define MAXY 600
 #define DIFF 50 				// boundary difference
 #define TIME_F 0.02			// in second
 #define ANGV_MULT 0.027560		
